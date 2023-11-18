@@ -1,0 +1,23 @@
+button {
+  display: block;
+  cursor: pointer;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  background-color: #eee;
+  border: 0.5px solid;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: #bbbaba;
+  box-shadow: 0px 0px 5px 1px rgb(143, 142, 142);
+}
+input {
+  border: 0 solid;
+  padding: 3px;
+  border-radius: 5px;
+  background-color: rgb(186, 212, 238);
+}
+table {
+  background-color: whitesmoke;
+}
