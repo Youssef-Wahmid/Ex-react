@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ex-react/static/css/main.0610e8bc.css",
+    "main.js": "/Ex-react/static/js/main.72749ade.js",
+    "static/js/787.93a29a8d.chunk.js": "/Ex-react/static/js/787.93a29a8d.chunk.js",
+    "static/media/Grilled-Salmon.jpg": "/Ex-react/static/media/Grilled-Salmon.0d21a3bc281deb17d92d.jpg",
+    "static/media/Creamy-Mushroom-Risotto.jpg": "/Ex-react/static/media/Creamy-Mushroom-Risotto.b6bd876595e3dad36c95.jpg",
+    "static/media/carbonara.jpg": "/Ex-react/static/media/carbonara.6a497d503e2c57aaaf6e.jpg",
+    "static/media/vegitbles.jpeg": "/Ex-react/static/media/vegitbles.8f1b0453141fcf7e700c.jpeg",
+    "static/media/tacos.jpeg": "/Ex-react/static/media/tacos.67b0b967feab2aacd633.jpeg",
+    "static/media/logo.svg": "/Ex-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ex-react/index.html",
+    "main.0610e8bc.css.map": "/Ex-react/static/css/main.0610e8bc.css.map",
+    "main.72749ade.js.map": "/Ex-react/static/js/main.72749ade.js.map",
+    "787.93a29a8d.chunk.js.map": "/Ex-react/static/js/787.93a29a8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0610e8bc.css",
+    "static/js/main.72749ade.js"
+  ]
+}
